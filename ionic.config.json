@@ -1,0 +1,7 @@
+{
+  "name": "AppIonicFigma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
